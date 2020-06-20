@@ -17,3 +17,12 @@
 **Thoughts:** I didn't struggle learning this.
 
 **Link to work:** [Catatan Jquery dan Sass](https://twitter.com/bolucoklatmanis/status/1273975873939533827)
+
+### Day 3: June 20, 2020 
+##### Learned progressive web app
+
+**Today's Progress**: i've just knows many things. I wrote them on twitter as my note.
+
+**Thoughts:** I struggled to connect my phone using usb debugging, but ngrok saved me. thanks ngrok!
+
+**Link to work:** [Catatan PWA Part 1](https://twitter.com/bolucoklatmanis/status/1274376485671845888)
