@@ -25,4 +25,13 @@
 
 **Thoughts:** I struggled to connect my phone using usb debugging, but ngrok saved me. thanks ngrok!
 
-**Link to work:** [Catatan PWA Part 1](https://twitter.com/bolucoklatmanis/status/1274376485671845888)
+**Link to work:** [Catatan PWA Part 1](https://twitter.com/bolucoklatmanis/status/1274376485671845888) 
+
+### Day 4: June 21, 2020 
+##### Practiced progressive web app
+
+**Today's Progress**: I knew how to make progressive web app based on tutorial that I followed. registered the serviceworker, added assets to cache storage, used aseets from cache storage, deleted old cache, added app to home screen, registered web app manifest, run web app manifest. voila!
+
+**Thoughts:** that's a lot of things to do, I need to make a good submission!
+
+**Link to work:** [Practice PWA 1](https://github.com/ramadhaniinggi/learningpwa-idcamp) 
