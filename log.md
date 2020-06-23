@@ -35,3 +35,12 @@
 **Thoughts:** that's a lot of things to do, I need to make a good submission!
 
 **Link to work:** [Practice PWA 1](https://github.com/ramadhaniinggi/learningpwa-idcamp) 
+
+### Day 5: June 22, 2020 
+##### Made progressive web app
+
+**Today's Progress**: I made a simple web with progressive web app that can be accessed in offline mode and add to home screen
+
+**Thoughts:** I struggled in using materialize css, especially using select in forms. I'm newbie using this. 
+
+**Link to work:** [Make PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp) 
