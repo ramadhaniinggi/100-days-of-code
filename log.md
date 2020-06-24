@@ -53,3 +53,12 @@
 **Thoughts:** I struggled in understanding react without practicing. I have to practice it tomorrow
 
 **Link to work:** [Revision PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp) 
+
+### Day 7: June 24, 2020 
+##### Learned React in freecodecamp platform
+
+**Today's Progress**: learned props, array, components
+
+**Thoughts:** it was good
+
+**Link to work:** [Catatan React 1](https://twitter.com/bolucoklatmanis/status/1275818884092710912) 
