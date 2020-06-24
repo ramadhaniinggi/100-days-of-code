@@ -44,3 +44,12 @@
 **Thoughts:** I struggled in using materialize css, especially using select in forms. I'm newbie using this. 
 
 **Link to work:** [Make PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp) 
+
+### Day 6: June 23, 2020 
+##### Did revision to my first progressive web app and learned a bit about react
+
+**Today's Progress**: I added variant size of icon in manifest.json for variant devices. I learned about react component, haven't started to practice yet
+
+**Thoughts:** I struggled in understanding react without practicing. I have to practice it tomorrow
+
+**Link to work:** [Revision PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp) 
