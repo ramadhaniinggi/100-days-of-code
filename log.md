@@ -62,3 +62,14 @@
 **Thoughts:** it was good
 
 **Link to work:** [Catatan React 1](https://twitter.com/bolucoklatmanis/status/1275818884092710912) 
+
+### Day 8: June 25, 2020 
+##### Learned React in freecodecamp platform and did last revision after the submission got accepted yeay!
+
+**Today's Progress**: learned propTypes, defaultProps, and state for the react learning. In my last revision I learned that format file webp is much better than png/jpg haha
+
+**Thoughts:** it was good
+
+**Link to work:** 
+1. [Catatan React 2](https://twitter.com/bolucoklatmanis/status/1276081513033895936?s=20)
+2. [Last Revision PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp)
