@@ -73,3 +73,12 @@
 **Link to work:** 
 1. [Catatan React 2](https://twitter.com/bolucoklatmanis/status/1276081513033895936?s=20)
 2. [Last Revision PWA 1](https://github.com/ramadhaniinggi/pwapertama-idcamp)
+
+### Day 9: June 26, 2020 
+##### Learned Promise and Fetch API for PWA
+
+**Today's Progress**: learned promise and fetch API
+
+**Thoughts:** it was good and hard. haven't practiced it yet
+
+**Link to work:** [Catatan PWA Part 2](https://twitter.com/bolucoklatmanis/status/1276524876929499137)
